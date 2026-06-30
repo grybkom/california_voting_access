@@ -10,7 +10,7 @@ The goal is to quantify differences in access between counties and the potential
 <img width="1600" height="1000" alt="california_county_maps_election_results_voting_locations_population_2024" src="https://github.com/user-attachments/assets/2535a9d6-2fcb-48aa-a406-f6adda29bf0a" />
 
 <figure>
-  <img width="400" height="600" alt="california_potential_precinct_load_increase" src="https://github.com/user-attachments/assets/f957c457-6138-44a3-8f10-d90e1a728d2c" />
+  <img width="400" height="600" alt="california_potential_precinct_load_increase" align="left" src="https://github.com/user-attachments/assets/f957c457-6138-44a3-8f10-d90e1a728d2c" />
   <sub><b> If mail-in voting were eliminated and the number of precincts remained unchanged, California counties could experience substantial differences in the additional number of voters each precinct would need to accommodate (roughly 100 to 1,500 additional voters per precinct). Suggesting that the burden of eliminating mail-in voting would not be evenly distributed across counties.</sub>
 </figure>
 
