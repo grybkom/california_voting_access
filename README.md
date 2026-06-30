@@ -9,7 +9,7 @@ The goal is to quantify differences in access between counties and the potential
 
 <img width="1600" height="1000" alt="california_county_maps_election_results_voting_locations_population_2024" src="https://github.com/user-attachments/assets/2535a9d6-2fcb-48aa-a406-f6adda29bf0a" />
 
-
+<img width="800" height="1200" alt="california_potential_precinct_load_increase" src="https://github.com/user-attachments/assets/f957c457-6138-44a3-8f10-d90e1a728d2c" />
 
 ## References:
 Orey, W., Weil, M., & Lempert, J. (2026, February 2). Five Things to Know About the SAVE America Act. Bipartisan Policy Center. https://bipartisanpolicy.org/article/five-things-to-know-about-the-save-act/
