@@ -19,6 +19,7 @@ The goal is to quantify differences in access between counties and the potential
 
 
 ## References:
+
 Orey, W., Weil, M., & Lempert, J. (2026, February 2). Five Things to Know About the SAVE America Act. Bipartisan Policy Center. https://bipartisanpolicy.org/article/five-things-to-know-about-the-save-act/
 
 Elections Project Staff. (2026, February 20). Mail Voting is Safe and Secure. Bipartisan Policy Center. https://bipartisanpolicy.org/report/mail-voting-is-safe-secure/
